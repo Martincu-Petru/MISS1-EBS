@@ -3,9 +3,9 @@ This project is written using C# programming language (.NET Framework 4.7.2), wi
 ## Installing
 This project is compiled under .NET Framework 4.7.2 and is delivered as an executable, therefore you need an OS version of Microsoft Windows Windows 7 SP1 (or later) or Windows Server 2008 R2 (or later) to  run this app.
 ## Running the app
-Run the executable located at `\bin\Debug\Generate_Publishers-Subscribers.exe`
+Run the executable located at `Homework_1\bin\Debug\Generate_Publishers-Subscribers.exe`
 ## Configuration
-You must make sure that before running the app you have 2 XML files to specify the inputs for this application. They must be located at the root path of the project (`\`). They are named `publications-config.xml` and `subscriber-config.xml`.
+You must make sure that before running the app you have 2 XML files to specify the inputs for this application. They must be located at the root path of the project (`Homework_1\`). They are named `publications-config.xml` and `subscriber-config.xml`.
  `subscriber-config.xml` has the following structure:
  ```xml
  <?xml version="1.0" encoding="utf-8" ?>
@@ -71,4 +71,4 @@ You must make sure that before running the app you have 2 XML files to specify t
 </publications>
 ```
 ## Output
-Upon running the apps you will see the output files (`publications.txt`, `subscriptions.txt`) located at the same path with the executable (`\bin\Debug\publications.txt`, `\bin\Debug\subscriptions.txt`)
+Upon running the apps you will see the output files (`publications.txt`, `subscriptions.txt`) located at the same path with the executable (`Homework_1\bin\Debug\publications.txt`, `Homework_1\bin\Debug\subscriptions.txt`)
