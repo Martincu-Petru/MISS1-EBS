@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<publications>
+  <count>10</count>
+  <companies>
+    <company>Google</company>
+    <company>Microsoft</company>
+    <company>Yahoo</company>
+    <company>Amazon</company>
+  </companies>
+  <dates>
+    <date>02.02.2022</date>
+    <date>23.03.2020</date>
+  </dates>
+  <value>
+    <min>50,0</min>
+    <max>100,0</max>
+  </value>
+  <drop>
+    <min>10,0</min>
+    <max>15,0</max>
+  </drop>
+  <variation>
+    <min>0,4</min>
+    <max>0,9</max>
+  </variation>
+</publications>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<subscribers>
+  <count>20</count>
+  <companies>
+    <display-percentage>0,3</display-percentage>
+    <equal-operator-frequency>0,5</equal-operator-frequency>
+    <company>Google</company>
+    <company>Microsoft</company>
+    <company>Yahoo</company>
+    <company>Amazon</company>
+  </companies>
+  <dates>
+    <display-percentage>0,5</display-percentage>
+    <date>02.02.2022</date>
+    <date>23.03.2020</date>
+  </dates>
+  <values>
+    <display-percentage>0,8</display-percentage>
+    <min>50,0</min>
+    <max>100,0</max>
+  </values>
+  <drops>
+    <display-percentage>0,45</display-percentage>
+    <min>10,0</min>
+    <max>15,0</max>
+  </drops>
+  <variations>
+    <display-percentage>0,76</display-percentage>
+    <min>0,4</min>
+    <max>0,9</max>
+  </variations>
+</subscribers>
