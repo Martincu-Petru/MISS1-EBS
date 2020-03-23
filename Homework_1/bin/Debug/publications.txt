@@ -1,0 +1,10 @@
+{(company,"Yahoo");(value,81,24);(drop,10,07);(variation,0,8);(date,02.02.2022)}
+{(company,"Yahoo");(value,55,61);(drop,10,21);(variation,0,57);(date,02.02.2022)}
+{(company,"Microsoft");(value,75,78);(drop,10,7);(variation,0,4);(date,02.02.2022)}
+{(company,"Google");(value,62,37);(drop,13,57);(variation,0,49);(date,02.02.2022)}
+{(company,"Microsoft");(value,88,32);(drop,10,53);(variation,0,68);(date,02.02.2022)}
+{(company,"Microsoft");(value,56,36);(drop,11,05);(variation,0,54);(date,02.02.2022)}
+{(company,"Microsoft");(value,74,8);(drop,12,96);(variation,0,7);(date,02.02.2022)}
+{(company,"Google");(value,55,95);(drop,10,05);(variation,0,47);(date,02.02.2022)}
+{(company,"Microsoft");(value,77,55);(drop,13,64);(variation,0,64);(date,02.02.2022)}
+{(company,"Google");(value,85,79);(drop,12,7);(variation,0,42);(date,02.02.2022)}

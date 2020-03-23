@@ -1,0 +1,9 @@
+C:\Users\Petru\Desktop\MISS1-EBS\Homework_1\bin\Debug\Generate_Publishers-Subscribers.exe.config
+C:\Users\Petru\Desktop\MISS1-EBS\Homework_1\bin\Debug\Generate_Publishers-Subscribers.exe
+C:\Users\Petru\Desktop\MISS1-EBS\Homework_1\bin\Debug\Generate_Publishers-Subscribers.pdb
+C:\Users\Petru\Desktop\MISS1-EBS\Homework_1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Petru\Desktop\MISS1-EBS\Homework_1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Petru\Desktop\MISS1-EBS\Homework_1\obj\Debug\Generate_Publishers-Subscribers.csprojAssemblyReference.cache
+C:\Users\Petru\Desktop\MISS1-EBS\Homework_1\obj\Debug\Generate_Publishers-Subscribers.csproj.CopyComplete
+C:\Users\Petru\Desktop\MISS1-EBS\Homework_1\obj\Debug\Generate_Publishers-Subscribers.exe
+C:\Users\Petru\Desktop\MISS1-EBS\Homework_1\obj\Debug\Generate_Publishers-Subscribers.pdb
