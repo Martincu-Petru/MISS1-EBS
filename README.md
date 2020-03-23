@@ -70,4 +70,5 @@ You must make sure that before running the app you have 2 XML files to specify t
   </variation>
 </publications>
 ```
-## Upon running the apps you will see the output files (`publications.txt`, `subscriptions.txt`) located at the same path with the executable (`\bin\Debug\publications.txt`, `\bin\Debug\subscriptions.txt`)
+## Output
+Upon running the apps you will see the output files (`publications.txt`, `subscriptions.txt`) located at the same path with the executable (`\bin\Debug\publications.txt`, `\bin\Debug\subscriptions.txt`)
